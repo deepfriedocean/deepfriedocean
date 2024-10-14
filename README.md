@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Zhafran, im an informatics engineering student who is eager to learn about the tech world<br>im currently learning mobile development<br> and my main programming languages is Dart
+Hello my name is Zhafran, im an informatics engineering student who is eager to learn about the tech world<br>im currently learning mobile development<br> and my main programming language is Dart
 
 
 ## 🌐 Socials:
